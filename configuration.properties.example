@@ -1,0 +1,4 @@
+[Snowflake]
+snowflake_username = 'your_username'
+snowflake_password = 'your_password'
+snowflake_account = 'your_account_name'
