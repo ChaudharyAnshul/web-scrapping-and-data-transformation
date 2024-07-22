@@ -1,0 +1,12 @@
+2024-02-16 12:48:06,607 - INFO - Testing Snowflake connection
+2024-02-16 12:48:07,389 - INFO - 8.6.2
+2024-02-16 12:48:07,391 - INFO - Successfully connected to Snowflake
+2024-02-16 12:48:07,469 - INFO - -------Starting Snowflake table creation-------
+2024-02-16 12:48:08,174 - INFO - Table created
+2024-02-16 12:48:08,176 - INFO - -------Ending Snowflake table creation-------
+2024-02-16 12:48:08,177 - INFO - -------Starting Data Upload to Snowflake-------
+2024-02-16 12:48:08,270 - INFO - File Format created
+2024-02-16 12:48:08,691 - INFO - Stage created
+2024-02-16 12:48:09,648 - INFO - Put file into stage
+2024-02-16 12:48:11,049 - INFO - Copied file into table
+2024-02-16 12:48:11,112 - INFO - -------Ending Data Upload to Snowflake-------

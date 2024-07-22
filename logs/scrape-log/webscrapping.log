@@ -1,0 +1,142 @@
+2024-02-16 12:31:35,435 - INFO - Testing URL connection for Web Scrapping
+2024-02-16 12:31:36,038 - INFO - Successfully connected to the site
+2024-02-16 12:31:38,385 - INFO - ------- Starting URL Extraction -------
+2024-02-16 12:31:46,333 - INFO - Total topics found after iteration 1 iterations are 100
+2024-02-16 12:31:51,524 - INFO - Total topics found after iteration 2 iterations are 200
+2024-02-16 12:31:56,631 - INFO - Total topics found after iteration 3 iterations are 224
+2024-02-16 12:31:58,853 - INFO - ------- Ending URL Extraction -------
+2024-02-16 12:32:02,942 - INFO - ------- Starting Data Extraction -------
+2024-02-16 12:33:00,420 - ERROR - Iteration: 19 topic: Evaluating Quality of Financial Reports  -> Summary not found
+2024-02-16 12:35:09,070 - ERROR - Iteration: 63 topic: Integrated Cases in Risk Management: Institutional  -> Summary not found
+2024-02-16 12:35:33,703 - ERROR - Iteration: 71 topic: Ethics and Trust in the Investment Profession  -> Summary not found
+2024-02-16 12:35:36,635 - ERROR - Iteration: 72 topic: Ethics Application  -> Summary not found
+2024-02-16 12:35:39,534 - ERROR - Iteration: 73 topic: Guidance for Standards I–VII  -> Summary not found
+2024-02-16 12:35:42,374 - ERROR - Iteration: 74 topic: Introduction to the Global Investment Performance Standards (GIPS)  -> Summary not found
+2024-02-16 12:36:02,959 - ERROR - Iteration: 81 topic: Principles of Asset Allocation  -> Summary not found
+2024-02-16 12:36:51,072 - ERROR - Iteration: 97 topic: Guidance for Standards I–VII  -> Summary not found
+2024-02-16 12:36:53,996 - ERROR - Iteration: 98 topic: Guidance for Standards I–VII  -> Summary not found
+2024-02-16 12:37:05,679 - ERROR - Iteration: 102 topic: Industry and Company Analysis  -> Summary not found
+2024-02-16 12:37:23,391 - ERROR - Iteration: 108 topic: Sources of Capital  -> Summary not found
+2024-02-16 12:37:29,277 - ERROR - Iteration: 110 topic: Refresher Reading 02-18-2021  -> Summary not found
+2024-02-16 12:37:29,281 - ERROR - Iteration: 110 topic: Refresher Reading 02-18-2021  -> PDF Link not found
+2024-02-16 12:37:32,229 - ERROR - Iteration: 111 topic: Refresher Reading 11-13-2020  -> Summary not found
+2024-02-16 12:37:32,231 - ERROR - Iteration: 111 topic: Refresher Reading 11-13-2020  -> PDF Link not found
+2024-02-16 12:37:35,196 - ERROR - Iteration: 112 topic: Code of Ethics and Standards of Professional Conduct  -> Summary not found
+2024-02-16 12:37:38,228 - ERROR - Iteration: 113 topic: Code of Ethics and Standards of Professional Conduct  -> Summary not found
+2024-02-16 12:37:56,091 - ERROR - Iteration: 119 topic: Code of Ethics and Standards of Professional Conduct  -> Summary not found
+2024-02-16 12:37:59,024 - ERROR - Iteration: 120 topic: Asset Manager Code of Professional Conduct  -> Summary not found
+2024-02-16 12:39:02,226 - ERROR - Iteration: 141 topic: ICE RSS FEED Active Equity Investing: Strategies  -> PDF Link not found
+2024-02-16 12:39:05,118 - ERROR - Iteration: 142 topic: test  -> content-utility-curriculum (Year) not found
+2024-02-16 12:39:05,120 - ERROR - Iteration: 142 topic: test  -> Summary not found
+2024-02-16 12:39:05,123 - ERROR - Iteration: 142 topic: test  -> PDF Link not found
+2024-02-16 12:39:08,027 - ERROR - Iteration: 143 topic: TEST RR  -> content-utility-curriculum (Year) not found
+2024-02-16 12:39:08,029 - ERROR - Iteration: 143 topic: TEST RR  -> Summary not found
+2024-02-16 12:39:08,031 - ERROR - Iteration: 143 topic: TEST RR  -> PDF Link not found
+2024-02-16 12:39:10,995 - ERROR - Iteration: 144 topic: QA Test RR 1  -> content-utility-curriculum (Year) not found
+2024-02-16 12:39:10,998 - ERROR - Iteration: 144 topic: QA Test RR 1  -> Summary not found
+2024-02-16 12:39:11,000 - ERROR - Iteration: 144 topic: QA Test RR 1  -> PDF Link not found
+2024-02-16 12:39:13,892 - ERROR - Iteration: 145 topic: Branded Image Link Added to Refresher Reading  -> content-utility-curriculum (Year) not found
+2024-02-16 12:39:13,895 - ERROR - Iteration: 145 topic: Branded Image Link Added to Refresher Reading  -> Summary not found
+2024-02-16 12:39:13,897 - ERROR - Iteration: 145 topic: Branded Image Link Added to Refresher Reading  -> PDF Link not found
+2024-02-16 12:39:16,786 - ERROR - Iteration: 146 topic: Big Data Projects  -> PDF Link not found
+2024-02-16 12:39:19,727 - ERROR - Iteration: 147 topic: Big Data Projects  -> PDF Link not found
+2024-02-16 12:39:22,768 - ERROR - Iteration: 148 topic: Test 20 Cost of Capital  -> PDF Link not found
+2024-02-16 12:39:28,616 - ERROR - Iteration: 150 topic: Evaluating Quality of Financial Reports  -> Summary not found
+2024-02-16 12:39:31,588 - ERROR - Iteration: 151 topic: Big Data Projects  -> PDF Link not found
+2024-02-16 12:39:34,983 - ERROR - Iteration: 152 topic: Industry and Company Analysis (2018)  -> PDF Link not found
+2024-02-16 12:39:38,216 - ERROR - Iteration: 153 topic: Discounted Dividend Valuation (2018)   -> PDF Link not found
+2024-02-16 12:39:41,143 - ERROR - Iteration: 154 topic: The Portfolio Management Process and the Investment Policy Statement (2018)  -> PDF Link not found
+2024-02-16 12:39:44,138 - ERROR - Iteration: 155 topic: Employee Compensation: Post-Employment and Share-Based (2018)   -> PDF Link not found
+2024-02-16 12:39:46,860 - ERROR - Iteration: 156 topic: Integration of Financial Statement Analysis Techniques (2018)  -> PDF Link not found
+2024-02-16 12:39:50,400 - ERROR - Iteration: 157 topic: Free Cash Flow Valuation (2018)  -> PDF Link not found
+2024-02-16 12:39:53,365 - ERROR - Iteration: 158 topic: Market-Based Valuation: Price and Enterprise Value Multiples (2018)   -> PDF Link not found
+2024-02-16 12:39:56,648 - ERROR - Iteration: 159 topic: Residual Income Valuation (2018)   -> Summary not found
+2024-02-16 12:39:56,651 - ERROR - Iteration: 159 topic: Residual Income Valuation (2018)   -> PDF Link not found
+2024-02-16 12:39:59,524 - ERROR - Iteration: 160 topic: Yield-Based Bond Convexity and Portfolio Properties  -> Learning Outcomes not found
+2024-02-16 12:39:59,526 - ERROR - Iteration: 160 topic: Yield-Based Bond Convexity and Portfolio Properties  -> Summary not found
+2024-02-16 12:40:15,854 - ERROR - Iteration: 165 topic: Interest Rate Risk and Return   -> Learning Outcomes not found
+2024-02-16 12:40:15,855 - ERROR - Iteration: 165 topic: Interest Rate Risk and Return   -> Summary not found
+2024-02-16 12:40:18,800 - ERROR - Iteration: 166 topic: Yield-Based Bond Duration Measures and Properties  -> Learning Outcomes not found
+2024-02-16 12:40:18,802 - ERROR - Iteration: 166 topic: Yield-Based Bond Duration Measures and Properties  -> Summary not found
+2024-02-16 12:40:24,805 - ERROR - Iteration: 168 topic: Yield and Yield Spread Measures for Floating-Rate Instruments  -> Learning Outcomes not found
+2024-02-16 12:40:24,807 - ERROR - Iteration: 168 topic: Yield and Yield Spread Measures for Floating-Rate Instruments  -> Summary not found
+2024-02-16 12:40:31,459 - ERROR - Iteration: 170 topic: Capital Investments and Capital Allocation  -> Learning Outcomes not found
+2024-02-16 12:40:31,461 - ERROR - Iteration: 170 topic: Capital Investments and Capital Allocation  -> Summary not found
+2024-02-16 12:40:37,843 - ERROR - Iteration: 172 topic: Sampling and Estimation  -> content-utility-curriculum (Year) not found
+2024-02-16 12:40:37,846 - ERROR - Iteration: 172 topic: Sampling and Estimation  -> Summary not found
+2024-02-16 12:40:37,849 - ERROR - Iteration: 172 topic: Sampling and Estimation  -> PDF Link not found
+2024-02-16 12:40:40,774 - ERROR - Iteration: 173 topic: Corporate Structures and Ownership  -> Summary not found
+2024-02-16 12:40:50,044 - ERROR - Iteration: 176 topic: Evaluating Regression Model Fit and Interpreting Model Results  -> Introduction not found
+2024-02-16 12:40:52,977 - ERROR - Iteration: 177 topic: Model Misspecification  -> Introduction not found
+2024-02-16 12:40:55,798 - ERROR - Iteration: 178 topic: Investments in Real Estate through Private Vehicles  -> Introduction not found
+2024-02-16 12:41:02,383 - ERROR - Iteration: 180 topic: Fixed-Income Markets for Government Issuers  -> Learning Outcomes not found
+2024-02-16 12:41:02,384 - ERROR - Iteration: 180 topic: Fixed-Income Markets for Government Issuers  -> Summary not found
+2024-02-16 12:41:11,637 - ERROR - Iteration: 183 topic: Case Study in Risk Management: Institutional  -> Learning Outcomes not found
+2024-02-16 12:41:11,638 - ERROR - Iteration: 183 topic: Case Study in Risk Management: Institutional  -> Summary not found
+2024-02-16 12:41:14,944 - ERROR - Iteration: 184 topic: Hedge Funds  -> Learning Outcomes not found
+2024-02-16 12:41:14,946 - ERROR - Iteration: 184 topic: Hedge Funds  -> Summary not found
+2024-02-16 12:41:24,232 - ERROR - Iteration: 187 topic: Application of the Code and Standards: Level III  -> Summary not found
+2024-02-16 12:41:27,233 - ERROR - Iteration: 188 topic: Credit Analysis for Government Issuers  -> Learning Outcomes not found
+2024-02-16 12:41:27,235 - ERROR - Iteration: 188 topic: Credit Analysis for Government Issuers  -> Summary not found
+2024-02-16 12:41:30,803 - ERROR - Iteration: 189 topic: Asset-Backed Security (ABS) Instrument and Market Features  -> Learning Outcomes not found
+2024-02-16 12:41:30,804 - ERROR - Iteration: 189 topic: Asset-Backed Security (ABS) Instrument and Market Features  -> Summary not found
+2024-02-16 12:41:34,033 - ERROR - Iteration: 190 topic: Fixed-Income Bond Valuation: Prices and Yields  -> Learning Outcomes not found
+2024-02-16 12:41:34,034 - ERROR - Iteration: 190 topic: Fixed-Income Bond Valuation: Prices and Yields  -> Summary not found
+2024-02-16 12:41:36,980 - ERROR - Iteration: 191 topic: The Term Structure of Interest Rates: Spot, Par, and Forward Curves  -> Learning Outcomes not found
+2024-02-16 12:41:36,982 - ERROR - Iteration: 191 topic: The Term Structure of Interest Rates: Spot, Par, and Forward Curves  -> Summary not found
+2024-02-16 12:41:40,037 - ERROR - Iteration: 192 topic: Alternative Investment Performance and Returns  -> Learning Outcomes not found
+2024-02-16 12:41:40,038 - ERROR - Iteration: 192 topic: Alternative Investment Performance and Returns  -> Summary not found
+2024-02-16 12:41:43,054 - ERROR - Iteration: 193 topic: Investments in Private Capital: Equity & Debt  -> Learning Outcomes not found
+2024-02-16 12:41:43,056 - ERROR - Iteration: 193 topic: Investments in Private Capital: Equity & Debt  -> Summary not found
+2024-02-16 12:41:46,019 - ERROR - Iteration: 194 topic: Credit Risk  -> Learning Outcomes not found
+2024-02-16 12:41:46,021 - ERROR - Iteration: 194 topic: Credit Risk  -> Summary not found
+2024-02-16 12:41:49,046 - ERROR - Iteration: 195 topic: Fixed-Income Securitization  -> Learning Outcomes not found
+2024-02-16 12:41:49,047 - ERROR - Iteration: 195 topic: Fixed-Income Securitization  -> Summary not found
+2024-02-16 12:41:52,121 - ERROR - Iteration: 196 topic: Investors and Other Stakeholders  -> Learning Outcomes not found
+2024-02-16 12:41:52,122 - ERROR - Iteration: 196 topic: Investors and Other Stakeholders  -> Summary not found
+2024-02-16 12:41:55,065 - ERROR - Iteration: 197 topic: Yield and Yield Spread Measures for Fixed-Rate Bonds  -> Learning Outcomes not found
+2024-02-16 12:41:55,066 - ERROR - Iteration: 197 topic: Yield and Yield Spread Measures for Fixed-Rate Bonds  -> Summary not found
+2024-02-16 12:42:01,040 - ERROR - Iteration: 199 topic: Alternative Investment Features, Methods, and Structures  -> Learning Outcomes not found
+2024-02-16 12:42:01,041 - ERROR - Iteration: 199 topic: Alternative Investment Features, Methods, and Structures  -> Summary not found
+2024-02-16 12:42:04,558 - ERROR - Iteration: 200 topic: Curve-Based and Empirical Fixed-Income Risk Measures  -> Learning Outcomes not found
+2024-02-16 12:42:04,560 - ERROR - Iteration: 200 topic: Curve-Based and Empirical Fixed-Income Risk Measures  -> Summary not found
+2024-02-16 12:42:07,884 - ERROR - Iteration: 201 topic: Organizational Forms, Corporate Issuer Features, and Ownership  -> Learning Outcomes not found
+2024-02-16 12:42:07,885 - ERROR - Iteration: 201 topic: Organizational Forms, Corporate Issuer Features, and Ownership  -> Summary not found
+2024-02-16 12:42:11,467 - ERROR - Iteration: 202 topic: Hedge Funds  -> Introduction not found
+2024-02-16 12:42:11,469 - ERROR - Iteration: 202 topic: Hedge Funds  -> Learning Outcomes not found
+2024-02-16 12:42:11,470 - ERROR - Iteration: 202 topic: Hedge Funds  -> Summary not found
+2024-02-16 12:42:14,687 - ERROR - Iteration: 203 topic: Introduction to Digital Assets  -> Introduction not found
+2024-02-16 12:42:14,688 - ERROR - Iteration: 203 topic: Introduction to Digital Assets  -> Learning Outcomes not found
+2024-02-16 12:42:14,690 - ERROR - Iteration: 203 topic: Introduction to Digital Assets  -> Summary not found
+2024-02-16 12:42:18,237 - ERROR - Iteration: 204 topic: Fixed-Income Instrument Features  -> Learning Outcomes not found
+2024-02-16 12:42:18,238 - ERROR - Iteration: 204 topic: Fixed-Income Instrument Features  -> Summary not found
+2024-02-16 12:42:21,253 - ERROR - Iteration: 205 topic: Multinational Operations (2018)  -> PDF Link not found
+2024-02-16 12:42:24,222 - ERROR - Iteration: 206 topic: Natural Resources  -> Learning Outcomes not found
+2024-02-16 12:42:24,224 - ERROR - Iteration: 206 topic: Natural Resources  -> Summary not found
+2024-02-16 12:42:27,579 - ERROR - Iteration: 207 topic: Real Estate & Infrastructure  -> Learning Outcomes not found
+2024-02-16 12:42:27,582 - ERROR - Iteration: 207 topic: Real Estate & Infrastructure  -> Summary not found
+2024-02-16 12:42:30,482 - ERROR - Iteration: 208 topic: Credit Analysis for Corporate Issuers  -> Learning Outcomes not found
+2024-02-16 12:42:30,484 - ERROR - Iteration: 208 topic: Credit Analysis for Corporate Issuers  -> Summary not found
+2024-02-16 12:42:33,968 - ERROR - Iteration: 209 topic: Mortgage-Backed Security (MBS) Instrument and Market Features  -> Learning Outcomes not found
+2024-02-16 12:42:33,969 - ERROR - Iteration: 209 topic: Mortgage-Backed Security (MBS) Instrument and Market Features  -> Summary not found
+2024-02-16 12:42:37,575 - ERROR - Iteration: 210 topic: Fixed-Income Issuance and Trading  -> Learning Outcomes not found
+2024-02-16 12:42:37,576 - ERROR - Iteration: 210 topic: Fixed-Income Issuance and Trading  -> Summary not found
+2024-02-16 12:42:41,142 - ERROR - Iteration: 211 topic: Industry and Competitive Analysis  -> Learning Outcomes not found
+2024-02-16 12:42:41,144 - ERROR - Iteration: 211 topic: Industry and Competitive Analysis  -> Summary not found
+2024-02-16 12:42:44,120 - ERROR - Iteration: 212 topic: Company Analysis: Forecasting  -> Learning Outcomes not found
+2024-02-16 12:42:44,121 - ERROR - Iteration: 212 topic: Company Analysis: Forecasting  -> Summary not found
+2024-02-16 12:42:50,713 - ERROR - Iteration: 214 topic: Cost of Capital: Advanced Topics  -> Summary not found
+2024-02-16 12:42:57,202 - ERROR - Iteration: 216 topic: Company Analysis: Past and Present  -> Learning Outcomes not found
+2024-02-16 12:42:57,203 - ERROR - Iteration: 216 topic: Company Analysis: Past and Present  -> Summary not found
+2024-02-16 12:43:00,179 - ERROR - Iteration: 217 topic: Business Models  -> Learning Outcomes not found
+2024-02-16 12:43:00,181 - ERROR - Iteration: 217 topic: Business Models  -> Summary not found
+2024-02-16 12:43:03,155 - ERROR - Iteration: 218 topic: Fixed-Income Markets for Corporate Issuers  -> Learning Outcomes not found
+2024-02-16 12:43:03,156 - ERROR - Iteration: 218 topic: Fixed-Income Markets for Corporate Issuers  -> Summary not found
+2024-02-16 12:43:06,472 - ERROR - Iteration: 219 topic: Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits  -> Learning Outcomes not found
+2024-02-16 12:43:06,474 - ERROR - Iteration: 219 topic: Corporate Governance: Conflicts, Mechanisms, Risks, and Benefits  -> Summary not found
+2024-02-16 12:43:10,114 - ERROR - Iteration: 220 topic: Fixed-Income Cash Flows and Types  -> Learning Outcomes not found
+2024-02-16 12:43:10,115 - ERROR - Iteration: 220 topic: Fixed-Income Cash Flows and Types  -> Summary not found
+2024-02-16 12:43:16,466 - ERROR - Iteration: 222 topic: Extensions of Multiple Regression  -> Introduction not found
+2024-02-16 12:43:25,993 - INFO - ------- Ending Data Extraction -------
+2024-02-16 12:43:30,085 - INFO - -------Starting Writing to CSV -------
+2024-02-16 12:43:30,139 - INFO - ------- Ending Writing to CSV -------
