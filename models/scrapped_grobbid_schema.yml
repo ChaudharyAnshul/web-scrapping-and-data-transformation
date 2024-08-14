@@ -1,0 +1,22 @@
+version: 2
+
+models:
+  # - name: scrapped_grobbid
+  #   description: Printing Number of articles
+  #   columns:
+  #     - name: Number_of_articles
+  #       tests:
+  #         - not_null
+  #         - unique:
+  #             columns: [Number_of_articles]
+  #         - where: "Number_of_articles != 0"
+
+      - name: TOPIC
+        tests:
+          - not_null
+
+      - name: YEAR
+        tests:
+          - not_null
+          - accepted_values:
+              values: [2021, 2023, 2024]

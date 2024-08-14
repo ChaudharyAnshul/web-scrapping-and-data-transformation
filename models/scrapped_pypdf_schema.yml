@@ -1,0 +1,9 @@
+version: 2
+
+models:
+  - name: scrapped_pypdf
+    description: Printing Number of articles
+    columns:
+      - name: Number_of_articles
+        tests:
+          - not_null
